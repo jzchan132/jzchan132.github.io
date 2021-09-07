@@ -23,7 +23,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 Hi! I'm a Computer Science major Physics minor undergrad at University of Maryland - College Park.
 
 ## Experience
-First-Year Innovation & Research Experience (FIRE) College Park, MD
+
+### First-Year Innovation & Research Experience (FIRE) College Park, MD
 Student Researcher, Capital One Machine Learning (COML) Stream Aug. 2019 - Dec. 2020
 
 ### CBCM Gaithersburg, MD
