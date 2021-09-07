@@ -8,7 +8,7 @@ middle_name: Z.
 last_name: Chan
 email: jchan123@terpmail.umd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-footer_text: >
+footer_text: > Powered by Jekyll with al-folio theme. Hosted by GitHub Pages. Last Updated: September 8, 2021
 
 icon: 🔥 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
