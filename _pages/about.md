@@ -20,4 +20,21 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi! I'm a Computer Science major Physics minor undergrad at University of Maryland - College Park. \n
+Hi! I'm a Computer Science major Physics minor undergrad at University of Maryland - College Park.
+
+Experience
+First-Year Innovation & Research Experience (FIRE) College Park, MD
+Student Researcher, Capital One Machine Learning (COML) Stream Aug. 2019 - Dec. 2020
+
+CBCM Gaithersburg, MD
+Software Engineering Intern June 2019 - Aug. 2019
+
+U.S. Army Research Laboratory Adelphi, MD
+Research Intern June 2018 - Aug. 2018
+
+U.S. Army Research Laboratory Adelphi, MD
+Research Intern June 2017 - Aug. 2017
+
+Education
+University of Maryland College Park, MD
+BS in Computer Science, Minor in Physics Aug. 2019 - Present
