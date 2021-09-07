@@ -24,7 +24,7 @@ I am a Computer Science major Physics minor undergrad at University of Maryland 
 
 I am interested in Artifical Intelligence specifically, Natural Language Processing, and would love to join a relevant research laboratory.
 
-## Experience
+#### Experience
 
 ### First-Year Innovation & Research Experience (FIRE) College Park, MD
 Student Researcher, Capital One Machine Learning (COML) Stream Aug. 2019 - Dec. 2020
