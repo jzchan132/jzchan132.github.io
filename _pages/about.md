@@ -24,19 +24,24 @@ I am a Computer Science major Physics minor undergrad at University of Maryland 
 
 I am interested in Artifical Intelligence specifically, Natural Language Processing, and would love to join a relevant research laboratory.
 
-## Experience
+### Experience
 
 #### First-Year Innovation & Research Experience (FIRE) College Park, MD
 Student Researcher, Capital One Machine Learning (COML) Stream Aug. 2019 - Dec. 2020
+
 • Implemented deep learning models for various computer vision and NLP tasks, using Keras and TensorFlow.
+
 • Trained deep learning models, using both cloud (Google Colab, Google Compute Engine) and university GPU servers.
+
 • Extracted insights from real-world datasets, using spreadsheet tools like conditional/lookup functions and pivot tables.
 #### CBCM Gaithersburg, MD
 Software Engineering Intern June 2019 - Aug. 2019
 • Open Sesame is an in-house Android app for wirelessly managing building access, especially during o-hours. Users on the
 building's network can easily control physical door locks via the Open Sesame app.
+
 • Independently revamped Open Sesame's codebase (C#, Xamarin) to patch existing login vulnerabilities and make the app
 compatible with Android 8.1.
+
 • Regularly met with both technical and non-technical collaborators to discuss design specications, present progress
 updates, and obtain user experience feedback.
 #### U.S. Army Research Laboratory Adelphi, MD
