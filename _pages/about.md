@@ -28,12 +28,24 @@ I am interested in Artifical Intelligence specifically, Natural Language Process
 
 #### First-Year Innovation & Research Experience (FIRE) College Park, MD
 Student Researcher, Capital One Machine Learning (COML) Stream Aug. 2019 - Dec. 2020
-
+• Implemented deep learning models for various computer vision and NLP tasks, using Keras and TensorFlow.
+• Trained deep learning models, using both cloud (Google Colab, Google Compute Engine) and university GPU servers.
+• Extracted insights from real-world datasets, using spreadsheet tools like conditional/lookup functions and pivot tables.
 #### CBCM Gaithersburg, MD
 Software Engineering Intern June 2019 - Aug. 2019
-
+• Open Sesame is an in-house Android app for wirelessly managing building access, especially during o-hours. Users on the
+building's network can easily control physical door locks via the Open Sesame app.
+• Independently revamped Open Sesame's codebase (C#, Xamarin) to patch existing login vulnerabilities and make the app
+compatible with Android 8.1.
+• Regularly met with both technical and non-technical collaborators to discuss design specications, present progress
+updates, and obtain user experience feedback.
 #### U.S. Army Research Laboratory Adelphi, MD
 Research Intern June 2018 - Aug. 2018
-
+• Designed an algorithm for automatically reorienting laser communication gimbals in military vehicles, in order to maximize
+inter-vehicle signal strength in the battleeld. Implemented the gimbal adjustment algorithm using C++.
 #### U.S. Army Research Laboratory Adelphi, MD
 Research Intern June 2017 - Aug. 2017
+• Built a Python+LabOne based laser system to automate the laborious process of locating spin defects in silicon carbide
+samples. Such spin defects are useful for many applications, such as quantum computing, cryptography, and bioimaging.
+• Created an intuitive GUI with Tkinter and Matplotlib to help a team of physicists easily run the laser system and visualize
+their results with 3D plots, thus greatly speeding up their experiments.
