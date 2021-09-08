@@ -24,16 +24,16 @@ I am a Computer Science major Physics minor undergrad at University of Maryland 
 
 I am interested in Artifical Intelligence specifically, Natural Language Processing, and would love to join a relevant research laboratory.
 
-### Experience
+#### Experience
 
-#### First-Year Innovation & Research Experience (FIRE) College Park, MD
+**First-Year Innovation & Research Experience (FIRE) College Park, MD**
 Student Researcher, Capital One Machine Learning (COML) Stream Aug. 2019 - Dec. 2020
 - Implemented deep learning models for various computer vision and NLP tasks, using Keras and TensorFlow.
 - Trained deep learning models, using both cloud (Google Colab, Google Compute Engine) and university GPU servers.
 - Extracted insights from real-world datasets, using spreadsheet tools like conditional/lookup functions and pivot tables.
 <a/>
 
-#### CBCM Gaithersburg, MD
+**CBCM Gaithersburg, MD**
 Software Engineering Intern June 2019 - Aug. 2019
 - Open Sesame is an in-house Android app for wirelessly managing building access, especially during o-hours. Users on the
 building's network can easily control physical door locks via the Open Sesame app.
@@ -43,13 +43,13 @@ compatible with Android 8.1.
 updates, and obtain user experience feedback.
 <a/>
 
-#### U.S. Army Research Laboratory Adelphi, MD
+**U.S. Army Research Laboratory Adelphi, MD**
 Research Intern June 2018 - Aug. 2018
 - Designed an algorithm for automatically reorienting laser communication gimbals in military vehicles, in order to maximize
 inter-vehicle signal strength in the battlefield. Implemented the gimbal adjustment algorithm using C++.
 <a/>
 
-#### U.S. Army Research Laboratory Adelphi, MD
+**U.S. Army Research Laboratory Adelphi, MD**
 Research Intern June 2017 - Aug. 2017
 - Built a Python+LabOne based laser system to automate the laborious process of locating spin defects in silicon carbide
 samples. Such spin defects are useful for many applications, such as quantum computing, cryptography, and bioimaging.
