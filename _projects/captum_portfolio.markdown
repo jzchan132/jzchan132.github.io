@@ -3,6 +3,7 @@ layout: page
 title: Interpreting Sentiment Analysis and Hate Speech Detection
 description: Generating explanations based on fine-tuned sentiment analysis and hate speech detection models.
 importance: 1
+redirect: https://github.com/jzchan132/jzchan132.github.io
 category: personal
 ---
 
