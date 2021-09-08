@@ -37,7 +37,3 @@ Research Intern June 2018 - Aug. 2018
 
 #### U.S. Army Research Laboratory Adelphi, MD
 Research Intern June 2017 - Aug. 2017
-
-### Education
-#### University of Maryland College Park, MD
-BS in Computer Science, Minor in Physics Aug. 2019 - Present
