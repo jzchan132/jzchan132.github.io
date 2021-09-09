@@ -23,9 +23,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am a Computer Science major Physics minor undergrad at University of Maryland - College Park.
 
 I am interested in Artifical Intelligence specifically, Natural Language Processing, and would love to join a relevant research laboratory.    
-   
-   
-
+<br/><br/>
+<br/><br/>
 #### Experience
 
 **First-Year Innovation & Research Experience (FIRE) College Park, MD**
