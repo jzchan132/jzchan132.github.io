@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analyzing Twitch Data
-description: Tutorial on the Data Science Pipeline
+description: Data Science Tutorial
 redirect: https://github.com/jzchan132/CMSC320-Final
 importance: 3
 category: school
