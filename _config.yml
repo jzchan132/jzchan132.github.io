@@ -15,7 +15,7 @@ footer_text: >
 
 icon: 🔥 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
-baseurl: /joseph # the subpath of your site, e.g. /blog/
+baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -48,10 +48,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: jzchan132
+github_username: # jzchan132
 gitlab_username: # your GitLab user name
-twitter_username: josephzchan
-linkedin_username: jzchan132
+twitter_username: # josephzchan
+linkedin_username: # jzchan132
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -97,7 +97,7 @@ collections:
     output: false
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
 news_limit: 5
@@ -182,7 +182,7 @@ jquery:
   version: "3.5.1"
   integrity: "sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
 mathjax:
-  version: "3.2.0"
+  version: "3.1.2"
 mansory:
   version: "4.2.2"
   integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
