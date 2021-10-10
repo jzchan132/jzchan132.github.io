@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pullquotes
+title:  Twitch Data Analysis
 excerpt: NLP Tutorial
 ---
 
